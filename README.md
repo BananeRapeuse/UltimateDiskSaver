@@ -9,4 +9,5 @@ To use our app, you need:
 To install python and tinker, use this scrypt file:
 
 Windows: `w-py+t_ins.bat`
+
 macOS/Linux (debian): `mOS|deb-py+t_ins.sh`
